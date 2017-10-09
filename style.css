@@ -1,0 +1,13 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.stuffToCenter{
+    display: block;
+    text-align: center;
+}
+
+#profileimg{
+    border-radius: 0px;
+}
